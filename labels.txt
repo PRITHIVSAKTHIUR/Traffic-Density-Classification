@@ -1,0 +1,6 @@
+  "id2label": {
+    "0": "high-traffic",
+    "1": "low-traffic",
+    "2": "medium-traffic",
+    "3": "no-traffic"
+  },
